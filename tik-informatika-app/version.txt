@@ -1,0 +1,14 @@
+1.0.0
+Tik Informatika SMP v1.0.0
+Release Date: 2024-01-01
+Features:
+- Complete student management (66 fields)
+- Subject and schedule management
+- Assignment and grading system
+- RFID attendance with reader.py
+- Portfolio management
+- WhatsApp integration
+- PWA support
+- Admin dashboard with Voyager
+- Export to Excel/PDF
+- QR Code support
